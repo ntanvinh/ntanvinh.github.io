@@ -1,0 +1,30 @@
+{
+  "vi": {
+    "bannerUrl": "https://lssoft.io.vn/shopee-banner1.png",
+    "sub": "SIÊU SALE 6.6",
+    "cta": "Mua Ngay",
+    "mode": "both",
+    "affLink": "https://s.shopee.vn/8fOHLbNPUb",
+    "slides": [
+      {
+        "bannerUrl": "https://lssoft.io.vn/shopee-banner2.png",
+        "sub": "SIÊU SALE",
+        "cta": "Săn Deal Ngay",
+        "affLink": "https://s.shopee.vn/7KtVnQ1SSQ"
+      },
+      {
+        "bannerUrl": "https://lssoft.io.vn/shopee-banner3.png",
+        "sub": "SUPER SALE",
+        "cta": "Khám Phá Ngay",
+        "affLink": "https://s.shopee.vn/8fOHLbNPUb"
+      }
+    ]
+  },
+  "en": {
+    "bannerUrl": "https://lssoft.io.vn/shopee-banner1.png",
+    "sub": "",
+    "cta": "Buy now",
+    "mode": "admob",
+    "affLink": "https://s.shopee.vn/8fOHLbNPUb"
+  }
+}

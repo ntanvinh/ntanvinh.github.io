@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[71181,[],""]
+3:I[77305,[],""]
+5:I[93424,[],"OutletBoundary"]
+7:I[17001,[],"AsyncMetadataOutlet"]
+9:I[93424,[],"ViewportBoundary"]
+b:I[93424,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[2223,[],""]
+:HL["/_next/static/media/df0a9ae256c0569c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/7e8021d615438117.css","style"]
+0:{"P":null,"b":"wVEOydXLJtGvzgLXLoFmi","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7e8021d615438117.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"suppressHydrationWarning":true,"children":["$","body",null,{"className":"__className_2f9311","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"mx-auto flex min-h-[50vh] w-full max-w-4xl items-center justify-center px-4 py-16 text-center","children":["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-semibold tracking-tight","children":"404"}],["$","p",null,{"className":"mt-3 text-subtext","children":"The page you are looking for does not exist."}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+4:E{"digest":"NEXT_REDIRECT;replace;/en;307;"}
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+f:I[49993,[],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"LSSoft"}],["$","meta","1",{"name":"description","content":"LSSoft indie studio website"}],["$","meta","2",{"property":"og:title","content":"LSSoft"}],["$","meta","3",{"property":"og:description","content":"Simple, focused apps for everyday life."}],["$","meta","4",{"property":"og:url","content":"https://ntanvinh.github.io"}],["$","meta","5",{"property":"og:site_name","content":"LSSoft"}],["$","meta","6",{"property":"og:image","content":"https://ntanvinh.github.io/lss-logo.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"LSSoft"}],["$","meta","12",{"name":"twitter:description","content":"Simple, focused apps for everyday life."}],["$","meta","13",{"name":"twitter:image","content":"https://ntanvinh.github.io/lss-logo.png"}],["$","meta","14",{"name":"twitter:image:width","content":"1200"}],["$","meta","15",{"name":"twitter:image:height","content":"630"}],["$","link","16",{"rel":"shortcut icon","href":"/favicon.png"}],["$","link","17",{"rel":"icon","href":"/favicon.png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/favicon.png"}],["$","$Lf","19",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"
